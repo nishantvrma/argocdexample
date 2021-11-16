@@ -8,7 +8,7 @@ data:
   config.json: |
     {
       "config": {
-        "message": " Hello from Nishant" 
+        "message": " Hello from Nish" 
       }
     }
 
