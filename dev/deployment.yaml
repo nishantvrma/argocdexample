@@ -8,7 +8,7 @@ data:
   config.json: |
     {
       "config": {
-        "message": " Hello from Kubernetes" 
+        "message": " Hello from Nishant" 
       }
     }
 
